@@ -1,3 +1,4 @@
+
 /*
  * SonarQube, open source software quality management tool.
  * Copyright (C) 2008-2013 SonarSource
@@ -30,6 +31,7 @@ Add a new line at the end of this file.
  * License as published by the Free Software Foundation; either
  * version 3 of the License, or (at your option) any later version.
  */
+
 #include <iostream>
 #include <string>
 
@@ -66,3 +68,5 @@ int main() {
 
     return 0;
 }
+
+
